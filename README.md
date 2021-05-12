@@ -4,7 +4,7 @@ Receive payloads with smee.io and send them to your locally running application.
 This is a docker container with smee-client on node:16-alpine3.11 image.
 
 ## Usage
-If you want to test to you receive payloads in your local (docker-compose) test environvment,
+If you want to test to receive payloads in your local (docker-compose) test environvment,
 you can start this container and only need to define two environment variables.
 
 ```
