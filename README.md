@@ -28,4 +28,4 @@ smee_client_1  | Forwarding https://smee.io/my-random-endpoint to http://127.0.0
 smee_client_1  | Connected https://smee.io/my-random-endpoint
 ```
 
-Now you will be able to listen to webhooks events that are send to `https://smee.io/my-random-endpoint` on your local machine at `http://127.0.0.1:8080/path/to/local/receicer`
+Now you will be able to listen to webhooks events that are send to `https://smee.io/my-random-endpoint` on your local machine at `http://127.0.0.1:8080/path/to/local/receiver`
